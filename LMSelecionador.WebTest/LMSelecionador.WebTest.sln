@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSelecionador.WebTest", "LMSelecionador.WebTest\LMSelecionador.WebTest.csproj", "{B8F97F66-00F0-488A-9ECC-FE644EAEA8CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMSelecionador.WebTest", "LMSelecionador.WebTest\LMSelecionador.WebTest.csproj", "{B8F97F66-00F0-488A-9ECC-FE644EAEA8CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSelecionador", "LMSelecionador\LMSelecionador.csproj", "{F6965D5B-BA2A-415C-94D1-F1F788FA62E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMSelecionador", "LMSelecionador\LMSelecionador.csproj", "{F6965D5B-BA2A-415C-94D1-F1F788FA62E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSelecionador2", "LMSelecionador2\LMSelecionador2.csproj", "{9A16192B-D715-4AEE-B659-11D059C553CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F6965D5B-BA2A-415C-94D1-F1F788FA62E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6965D5B-BA2A-415C-94D1-F1F788FA62E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6965D5B-BA2A-415C-94D1-F1F788FA62E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A16192B-D715-4AEE-B659-11D059C553CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A16192B-D715-4AEE-B659-11D059C553CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A16192B-D715-4AEE-B659-11D059C553CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A16192B-D715-4AEE-B659-11D059C553CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
